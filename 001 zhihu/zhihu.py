@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-Required
 - requests (必须)
 - pillow (可选)
 Info
